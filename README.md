@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingwithkat
+- 👋 Hi, I’m Katerina Scoullos, aka: @codingwithkat
 - 👀 I’m interested in product management!
 - 🌱 I’m currently learning more about React and Redux!
 - 💞️ I’m looking to collaborate on fitness related apps!
