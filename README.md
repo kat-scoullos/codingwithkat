@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katerina Scoullos, aka: @codingwithkat
+- 👋 Hi, I’m Katerina Scoullos
 - 📫 How to reach me: https://www.linkedin.com/in/katerina-scoullos/ or katerinascoullos@gmail.com 
 
 <!---
